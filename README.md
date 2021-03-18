@@ -5,3 +5,6 @@
 <a href="https://github.com/Rxflex">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rxflex&layout=compact&theme=material-palenight" />
 </a>
+
+
+<img src="https://smookywizard.net/api/discord/avatar.php?type=user&id=407157653475819530">
