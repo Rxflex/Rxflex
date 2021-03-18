@@ -1,19 +1,14 @@
-### Hi there 👋
 
-<!--
-**Rxflex/Rxflex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://github.com/Rxflex">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rxflex&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
+</a>
+<a href="https://github.com/Rxflex">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rxflex&layout=compact&theme=material-palenight" />
+</a>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-<img alt= "stats card" height="270px" width="400" src="https://github-readme-stats.vercel.app/api?username=rxflex&theme=dark&show_icons=true&count_private=true" />
+<a href="https://github.com/Rxflex">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rxflex&repo=github-readme-stats&theme=material-palenight" />
+</a>    
+<a href="https://github.com/Rxflex">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rxflex&repo=anuraghazra.github.io&theme=material-palenight" />
+</a>
