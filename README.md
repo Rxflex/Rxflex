@@ -7,8 +7,8 @@
 </a>
 
 <a href="https://github.com/Rxflex">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rxflex&repo=github-readme-stats&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rxflex&repo=Rxflex&theme=material-palenight" />
 </a>    
 <a href="https://github.com/Rxflex">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rxflex&repo=anuraghazra.github.io&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rxflex&repo=Rxflex&theme=material-palenight" />
 </a>
