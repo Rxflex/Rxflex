@@ -7,4 +7,4 @@
 </a>
 
 
-<img src="https://smookywizard.net/api/discord/avatar.php?type=user&id=407157653475819530">
+<img style="border-radius: 50%;" src="https://smookywizard.net/api/discord/avatar.php?type=user&id=407157653475819530">
