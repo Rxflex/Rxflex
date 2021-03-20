@@ -7,6 +7,6 @@
 </a>
 
 <div style="display:inline; vertical-align:middle;">
-<img style="border-radius: 50%; vertical-align:middle;" src="http://smookywizard.net/api/discord/avatar.php?type=user&id=407157653475819530"> 
+<img style="border-radius: 50%; vertical-align:middle;" src="http://t93120yu.beget.tech//api/discord/avatar.php?type=user&id=407157653475819530"> 
 <h3 style="vertical-align:middle; display:inline;">SmookyWizard</h3>
 </div>
