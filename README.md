@@ -41,6 +41,6 @@
 
 # 📊 Моя статистика
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=smookywizard&show_icons=true&theme=dark" />
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=smookywizard&theme=dark" />
+    <img src="https://github-readme-stats.vercel.app/api?username=rxflex&show_icons=true&theme=dark" />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=rxflex&theme=dark" />
 </p>
