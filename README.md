@@ -18,7 +18,7 @@
 <p align="center">
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?&style=for-the-badge&logo=JavaScript&logoColor=222222" />
     <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white" />
-    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?&style=for-the-badge&logo=PostgreSQL&logoColor=white" />
+    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-336791?&style=for-the-badge&logo=MySQL&logoColor=white" />
     <img alt="Git" src="https://img.shields.io/badge/Git-F05032?&style=for-the-badge&logo=Git&logoColor=white" />
     <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=Heroku&logoColor=white" />
     <img alt="PHP" src="https://img.shields.io/badge/-PHP-430098?style=for-the-badge&logo=PHP&logoColor=white" />
