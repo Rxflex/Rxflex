@@ -27,7 +27,7 @@
 # 🛠 Мои инструменты
 <p align="center">
     <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?&style=for-the-badge&logo=Visual-Studio-Code&logoColor=white" />
-    <img alt="ESLint" src="https://img.shields.io/badge/ESLint-4B32C3?&style=for-the-badge&logo=ESLint&logoColor=white" />
+    <img alt="Adobe Audition" src="https://img.shields.io/badge/Adobe%20Audition-4B32C3?&style=for-the-badge&logo=Adobe-Audition&logoColor=white" />
     <img alt="Adobe After Effects" src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?&style=for-the-badge&logo=Adobe-After-Effects&logoColor=white" />
     <img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?&style=for-the-badge&logo=Adobe-Photoshop&logoColor=white" />
 </p>
