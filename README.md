@@ -26,7 +26,7 @@
 
 # ✉ Мои контакты
 <p align= "center">
-    <a href="https://discord.bio/p/smookywizard"> <img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?&style=for-the-badge&logo=Discord&logoColor=white" /> </a>
+    <a href="https://dsc.bio/smookywizard"> <img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?&style=for-the-badge&logo=Discord&logoColor=white" /> </a>
     <a href="https://t.me/smookywizard"> <img alt="Telegram" src="https://img.shields.io/badge/Telegram-26A5E4?&style=for-the-badge&logo=Telegram&logoColor=white" /> </a>
     <a href="mailto:andreysuew@gmail.com"> <img alt="Email" src="https://img.shields.io/badge/Email-EA4335?&style=for-the-badge&logo=Gmail&logoColor=white" /> </a>
 </p>
