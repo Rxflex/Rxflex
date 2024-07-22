@@ -1,10 +1,14 @@
-discordid: '407157653475819530' # Здесь должен быть ID пользователя дискорд (обязательно)
-user_firstname: 'SmookyWizard' # Имя пользователя или псевдоним (Обязательно)
-userbio: 'Лев — это твоя жадная душа, а лиса — это дьявол, вводящий тебя в заблуждение.' # Описание профиля пользователя (обязательно)
+user_firstname: 'SmookyWizard' # Username shown on profile (Required)
+userbio: 'Лев — это твоя жадная душа, а лиса — это дьявол, вводящий тебя в заблуждение.' # Profile description (Required)
 
-instagram_login: '@smookywizard' # Логин от инстаграм (Не обязательно)
-website_url: 'smookywizard.ru' # Ссылка на сайт (Не обязательно)
-twitter_login: '' # Логин от твиттер (Не обязательно)
+linkedin_login: '' # LinkedIn login (Optional)
+telegram_login: '' # Telegram login (Optional)
+discords_login: '' # DiscordS login (Optional)
+steam_login: 'zopronyt' # SteamCommunity ID (Optional)
+instagram_login: 'chuk_one' # Instagram login (Optional)
+twitter_login: '' # Twitter login (Optional)
+website_url: 'https://chuk.cz' # Website url (Optional)
+cv_url: '' # CV URL (Optional)
 
-profile_theme: 'dark' # Стиль профиля, доступные стили dark, light
-profile_color: 'rgb(32, 34, 37)' # Цвет рамки профиля
+profile_theme: 'dark' # Profile style
+profile_color: 'rgb(32, 34, 37)' # Profile border color
