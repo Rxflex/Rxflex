@@ -1,3 +1,8 @@
+#
+#  Configuration file for BitWave Bio
+#     https://github.com/BitWaveOrg
+#
+
 user_firstname: 'SmookyWizard' # Username shown on profile (Required)
 userbio: 'Лев — это твоя жадная душа, а лиса — это дьявол, вводящий тебя в заблуждение.' # Profile description (Required)
 
