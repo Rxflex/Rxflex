@@ -3,8 +3,8 @@
 #     https://github.com/BitWaveOrg
 #
 
-user_firstname: 'SmookyWizard' # Username shown on profile (Required)
-userbio: 'Лев — это твоя жадная душа, а лиса — это дьявол, вводящий тебя в заблуждение.' # Profile description (Required)
+user_firstname: 'wzrd.' # Username shown on profile (Required)
+userbio: 'I am engaged in the development of bots for the discord platform as well as the creation of websites of varying complexity' # Profile description (Required)
 
 linkedin_login: '' # LinkedIn login (Optional)
 telegram_login: 'tuesday95' # Telegram login (Optional)
