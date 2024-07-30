@@ -7,7 +7,7 @@
 * **Хобби:** Играть в игры и писать код =d
 
 <p align="center">
-    <img width="30vh" src="https://itsmyverysecureendpoint.vercel.app/api?theme=dark" alt="Current Spotify Song" />
+    <img width="324px" src="https://itsmyverysecureendpoint.vercel.app/api?theme=dark" alt="Current Spotify Song" />
 </p>
 
 
