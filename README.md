@@ -6,6 +6,12 @@
 * **Пол:** ~~Dead Inside~~ Мужской
 * **Хобби:** Играть в игры и писать код =d
 
+<p align="center">
+    <h3>Сейчас слушаю</h3>
+    <img src="https://itsmyverysecureendpoint.vercel.app/api?theme=dark" alt="Current Spotify Song" />
+</p>
+
+
 # ⌨ Мои скиллы
 <p align="center">
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?&style=for-the-badge&logo=JavaScript&logoColor=222222" />
@@ -35,9 +41,4 @@
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=rxflex&show_icons=true&theme=dark" />
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=smookywizard&theme=dark" />
-</p>
-
-#Сейчас слушаю
-<p align="center">
-    <img src="https://itsmyverysecureendpoint.vercel.app/api?theme=dark" alt="Current Spotify Song" />
 </p>
