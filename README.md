@@ -39,5 +39,5 @@
 
 #Сейчас слушаю
 <p align="center">
-    <img src="https://itsmyverysecureendpoint.vercel.app/api" alt="Current Spotify Song">
+    <img src="https://itsmyverysecureendpoint.vercel.app/api?theme=dark" alt="Current Spotify Song" />
 </p>
