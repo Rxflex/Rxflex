@@ -28,7 +28,7 @@
 
 # ✉ Мои контакты
 <p align= "center">
-    <a href="https://five.bio/dev"> <img alt="Static Badge" src="https://img.shields.io/badge/FiveBio?style=for-the-badge" /> </a>
+    <a href="https://five.bio/dev"> <img alt="Static Badge" src="https://img.shields.io/badge/Five_Bio-blue?style=for-the-badge"/> </a>
 </p>
 
 # 📊 Моя статистика
