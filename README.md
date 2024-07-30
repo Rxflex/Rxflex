@@ -24,16 +24,11 @@
 # 🛠 Мои инструменты
 <p align="center">
     <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?&style=for-the-badge&logo=Visual-Studio-Code&logoColor=white" />
-    <img alt="Adobe Audition" src="https://img.shields.io/badge/Adobe%20Audition-4B32C3?&style=for-the-badge&logo=Adobe-Audition&logoColor=white" />
-    <img alt="Adobe After Effects" src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?&style=for-the-badge&logo=Adobe-After-Effects&logoColor=white" />
-    <img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?&style=for-the-badge&logo=Adobe-Photoshop&logoColor=white" />
 </p>
 
 # ✉ Мои контакты
 <p align= "center">
-    <a href="https://dsc.bio/smookywizard"> <img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?&style=for-the-badge&logo=Discord&logoColor=white" /> </a>
-    <a href="https://t.me/smookywizard"> <img alt="Telegram" src="https://img.shields.io/badge/Telegram-26A5E4?&style=for-the-badge&logo=Telegram&logoColor=white" /> </a>
-    <a href="mailto:andreysuew@gmail.com"> <img alt="Email" src="https://img.shields.io/badge/Email-EA4335?&style=for-the-badge&logo=Gmail&logoColor=white" /> </a>
+    <a href="https://five.bio/dev"> <img alt="Static Badge" src="https://img.shields.io/badge/FiveBio?style=for-the-badge" /> </a>
 </p>
 
 # 📊 Моя статистика
