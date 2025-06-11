@@ -6,16 +6,16 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=fb7013&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Rxflex" alt="Typing SVG" />
   </a>
   <h2 align="center">
-    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20px"> Немного обо мне
+    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20px"> A little about me
   </h2>
   
   <div align="center">
-    <img src="https://img.shields.io/badge/🌍%20Страна-Чехия-blue?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/💻%20Профессия-программист-blue?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/🎮%20Хобби-код+и+игры-blue?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🌍%20Country-Czech-blue?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/💻%20Profession-Programmer-blue?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🎮%20Hobby-coding+and+games-blue?style=for-the-badge" />
     <br />
     <a href="https://0c.md" target="_blank" style="text-decoration:none;">
-      <img src="https://img.shields.io/badge/🌐%20Сайт-0c.md-orange?style=for-the-badge" alt="Сайт 0c.md" />
+      <img src="https://img.shields.io/badge/🌐%20Website-0c.md-orange?style=for-the-badge" alt="Website 0c.md" />
     </a>
   </div>
 </div>
@@ -23,7 +23,7 @@
 <!-- Skills Section -->
 <div align="center">
   <h2 align="center">
-    <img src="https://i.giphy.com/iY8CRBdQXODJSCERIr.webp" width="25px"> Мои навыки
+    <img src="https://i.giphy.com/iY8CRBdQXODJSCERIr.webp" width="25px"> My Skills
   </h2>
   <p>
     <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
@@ -45,7 +45,7 @@
 <!-- Tools Section -->
 <div align="center">
   <h2 align="center">
-    <img src="https://i.giphy.com/MIGbtLZoVjbl0bYbAd.webp" width="25px"> Инструменты
+    <img src="https://i.giphy.com/MIGbtLZoVjbl0bYbAd.webp" width="25px"> Tools
   </h2>
   <p>
     <img alt="PHPStorm" src="https://img.shields.io/badge/PhpStorm-000000?style=for-the-badge&logo=phpstorm&logoColor=white" />
@@ -63,9 +63,9 @@
 <!-- Contact Section -->
 <div align="center">
   <h2 align="center">
-    <img src="https://i.giphy.com/MIGbtLZoVjbl0bYbAd.webp" width="25px"> Контакты
+    <img src="https://i.giphy.com/MIGbtLZoVjbl0bYbAd.webp" width="25px"> Contact
   </h2>
-  <a href="https://t.me/wind_fuse" target="_blank">
+  <a href="https://t.me/moyase" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </div>
@@ -73,7 +73,7 @@
 <!-- GitHub Stats -->
 <div align="center">
   <h2 align="center">
-    <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="25px"> Моя статистика GitHub
+    <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="25px"> My GitHub Stats
   </h2>
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rxflex&show_icons=true&theme=gruvbox&border_color=fb7013&border_radius=10" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rxflex&theme=gruvbox&border=fb7013&border_radius=10" />
