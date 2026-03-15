@@ -1,85 +1,91 @@
-<!-- About Me Section -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=fb7013&height=120&section=header"/>
-  <!-- Profile Header -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=fb7013&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Rxflex" alt="Typing SVG" />
-  </a>
-  <h2 align="center">
-    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20px"> A little about me
-  </h2>
-  
-  <div align="center">
-    <img src="https://img.shields.io/badge/🌍%20Country-Czech-blue?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/💻%20Profession-Programmer-blue?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/🎮%20Hobby-coding+and+games-blue?style=for-the-badge" />
-    <br />
-    <a href="https://0c.md" target="_blank" style="text-decoration:none;">
-      <img src="https://img.shields.io/badge/🌐%20Website-0c.md-orange?style=for-the-badge" alt="Website 0c.md" />
-    </a>
-  </div>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f0f0f,fb7013&height=220&section=header&text=Rxflex&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Builder%20of%20tools,%20systems,%20and%20things%20that%20should%20not%20break&descAlignY=58&descSize=18" alt="Rxflex header" width="100%" />
 </div>
 
-<!-- Skills Section -->
 <div align="center">
-  <h2 align="center">
-    <img src="https://i.giphy.com/iY8CRBdQXODJSCERIr.webp" width="25px"> My Skills
-  </h2>
-  <p>
-    <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    <img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
-    <img alt="AJAX" src="https://img.shields.io/badge/AJAX-0078D7?style=for-the-badge" />
-    <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-    <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-    <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-    <img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
-    <img alt="WordPress" src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
-    <img alt="DLE" src="https://img.shields.io/badge/DLE-2F95B0?style=for-the-badge" />
-  </p>
-</div>
-
-<!-- Tools Section -->
-<div align="center">
-  <h2 align="center">
-    <img src="https://i.giphy.com/MIGbtLZoVjbl0bYbAd.webp" width="25px"> Tools
-  </h2>
-  <p>
-    <img alt="PHPStorm" src="https://img.shields.io/badge/PhpStorm-000000?style=for-the-badge&logo=phpstorm&logoColor=white" />
-    <img alt="WebStorm" src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white" />
-    <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-    <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-    <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-    <img alt="Adobe Photoshop" src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" />
-    <img alt="Adobe Audition" src="https://img.shields.io/badge/Audition-1D1D1B?style=for-the-badge&logo=adobeaudition&logoColor=green" />
-    <img alt="Adobe Premiere" src="https://img.shields.io/badge/Premiere-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white" />
-    <img alt="Sony Vegas Pro" src="https://img.shields.io/badge/SonyVegasPro-000000?style=for-the-badge" />
-  </p>
-</div>
-
-<!-- Contact Section -->
-<div align="center">
-  <h2 align="center">
-    <img src="https://i.giphy.com/MIGbtLZoVjbl0bYbAd.webp" width="25px"> Contact
-  </h2>
-  <a href="https://t.me/wind_fuse" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2600&pause=900&color=FB7013&center=true&vCenter=true&width=900&lines=TypeScript+%E2%80%A2+Go+%E2%80%A2+Python+%E2%80%A2+Systems+%E2%80%A2+AI+Tooling;Public+repos+are+curated.+Private+work+is+where+most+of+the+firepower+lives.;I+build+operator+tools%2C+edge+services%2C+automation%2C+and+weird+things+that+ship." alt="Typing intro" />
   </a>
 </div>
 
-<!-- GitHub Stats -->
 <div align="center">
-  <h2 align="center">
-    <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="25px"> My GitHub Stats
-  </h2>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rxflex&show_icons=true&theme=gruvbox&border_color=fb7013&border_radius=10" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rxflex&theme=gruvbox&border=fb7013&border_radius=10" />
+  <a href="https://0c.md"><img src="https://img.shields.io/badge/Website-0c.md-fb7013?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+  <a href="https://t.me/wind_fuse"><img src="https://img.shields.io/badge/Telegram-@wind__fuse-1f1f1f?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Rxflex&style=for-the-badge&color=fb7013&label=Profile+Views" alt="Profile views" />
 </div>
 
-<!-- Footer -->
+## About
+
+I build web products, internal platforms, backend systems, devtools, and infrastructure-heavy software. The work I enjoy most sits somewhere between product engineering, automation, networked systems, and "this edge case is now our problem."
+
+Most of my serious output is private. This profile intentionally highlights only the public repos that make the strongest case.
+
+## Focus
+
+- Local-first AI tooling, tracing, analysis pipelines, and operator workflows
+- Proxies, routing layers, edge agents, automation, and backend infrastructure
+- Product dashboards, auth systems, launchers, internal tools, and business logic
+- Reverse-engineering, modding, and experimental systems when the problem is worth it
+
+## Selected Work
+
+| Project | Role | Why it matters |
+| --- | --- | --- |
+| [AgentTrace](https://github.com/Rxflex/agenttrace) | Author | Local-first visual debugger for AI agents with a Python SDK, FastAPI backend, React UI, and SQLite trace storage. |
+| [Mapr](https://github.com/redstone-md/Mapr) | Original Author | Bun-native reverse-engineering CLI/TUI with crawler, artifact extraction, multi-agent analysis, and report generation. |
+| [DefenraAgent](https://github.com/Defenra/DefenraAgent) | Original Author | Go edge runtime for GeoDNS, reverse proxying, Lua WAF, TCP/UDP forwarding, and DDoS protection. |
+| [DefenraCore](https://github.com/Defenra/DefenraCore) | Original Author | Next.js control plane for distributed protection nodes, domain routing, WAF rules, and traffic operations. |
+| [MailCat](https://github.com/Rxflex/MailCat) | Author | Gemini-powered IMAP classification system that routes email automatically based on content. |
+| [chukproxy](https://github.com/Rxflex/chukproxy) | Author | Dynamic TCP/UDP reverse proxy in Go with live MySQL-backed routing rules. |
+
+Also worth opening: [NeoMimicry/MorePlayers](https://github.com/NeoMimicry/MorePlayers), [Rxflex/UTracker](https://github.com/Rxflex/UTracker), [Rxflex/BinaryWave](https://github.com/Rxflex/BinaryWave).
+
+## Open Source Contributions
+
+- [Dokploy/dokploy](https://github.com/Dokploy/dokploy): merged [raw log trimming fix](https://github.com/Dokploy/dokploy/pull/1817) in a 31k+ star self-hosting platform.
+- [hydralauncher/hydra](https://github.com/hydralauncher/hydra): merged [downloader bugfix](https://github.com/hydralauncher/hydra/pull/698) in a 15k+ star launcher ecosystem.
+- [selfhosters/unRAID-CA-templates](https://github.com/selfhosters/unRAID-CA-templates): multiple accepted community template contributions.
+
+## Private Work
+
+The public repos are the visible layer. The recurring private themes are:
+
+- AI agents, evaluation loops, internal operator panels, and workflow automation
+- Licensing systems, launchers, account flows, and product backoffices
+- Proxies, monitoring, edge-aware services, and network-focused backend infrastructure
+- Client work and internal builds optimized to ship fast and stay maintainable
+
+## Stack
+
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=fb7013&height=120&section=footer"/>
+  <img src="https://skillicons.dev/icons?i=ts,js,go,py,cs,react,nextjs,nodejs,bun,fastapi,docker,mongodb,mysql,redis,sqlite,cloudflare,git,linux&perline=9" alt="Tech stack" />
 </div>
+
+## Languages I Write In
+
+- TypeScript and JavaScript for product engineering, tooling, and full-stack systems
+- Go for proxies, agents, networking, and backend infrastructure
+- Python for AI workflows, automation, and developer tooling
+- C# for game modding and runtime patching
+- Java when the project or platform calls for it
+- SQL, HTML, CSS, and Shell as working languages, not decoration
+
+## Analytics
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Rxflex&show_icons=true&rank_icon=github&theme=transparent&title_color=fb7013&icon_color=fb7013&text_color=e6e6e6&border_color=2a2a2a" alt="GitHub stats" />
+  <img height="170" src="https://streak-stats.demolab.com?user=Rxflex&theme=transparent&ring=fb7013&fire=fb7013&currStreakLabel=fb7013&sideLabels=e6e6e6&dates=9f9f9f&border=2a2a2a" alt="GitHub streak" />
+</div>
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rxflex&layout=compact&langs_count=8&theme=transparent&title_color=fb7013&text_color=e6e6e6&border_color=2a2a2a" alt="Top languages" />
+</div>
+
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rxflex&bg_color=0d0d0d&color=e6e6e6&line=fb7013&point=ffffff&area=true&area_color=fb7013&hide_border=true" alt="Contribution graph" />
+</div>
+
+## Contact
+
+- Website: [0c.md](https://0c.md)
+- Telegram: [@wind_fuse](https://t.me/wind_fuse)
