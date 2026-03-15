@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2600&pause=900&color=FB7013&center=true&vCenter=true&width=900&lines=TypeScript+%E2%80%A2+Go+%E2%80%A2+Python+%E2%80%A2+Systems+%E2%80%A2+AI+Tooling;++Public+repos+are+curated.+Private+work+is+where+most+of+the+firepower+lives.;I+build+operator+tools%2C+edge+services%2C+automation%2C+and+weird+things+that+ship." alt="Typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2600&pause=900&color=FB7013&center=true&vCenter=true&width=900&lines=TypeScript+%E2%80%A2+Go+%E2%80%A2+Python+%E2%80%A2+Systems+%E2%80%A2+AI+Tooling;Public+repos+are+curated.;Private+work+is+where+most+of+the+firepower+lives.;I+build+operator+tools%2C+edge+services%2C+automation%2C+and+weird+things+that+ship." alt="Typing intro" />
   </a>
 </div>
 
