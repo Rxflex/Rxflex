@@ -31,6 +31,7 @@ Most of my serious output is private. This profile intentionally highlights only
 
 | Project | Role | Why it matters |
 | --- | --- | --- |
+| [rom](https://github.com/Rxflex/rom) | Author | Rust browser-like runtime built without Chromium for deterministic web automation, browser API emulation, and compatibility research. |
 | [AgentTrace](https://github.com/Rxflex/agenttrace) | Author | Local-first visual debugger for AI agents with a Python SDK, FastAPI backend, React UI, and SQLite trace storage. |
 | [Mapr](https://github.com/redstone-md/Mapr) | Original Author | Bun-native reverse-engineering CLI/TUI with crawler, artifact extraction, multi-agent analysis, and report generation. |
 | [DefenraAgent](https://github.com/Defenra/DefenraAgent) | Original Author | Go edge runtime for GeoDNS, reverse proxying, Lua WAF, TCP/UDP forwarding, and DDoS protection. |
