@@ -36,10 +36,12 @@ Most of my serious output is private. This profile intentionally highlights only
 | [Mapr](https://github.com/redstone-md/Mapr) | Original Author | Bun-native reverse-engineering CLI/TUI with crawler, artifact extraction, multi-agent analysis, and report generation. |
 | [DefenraAgent](https://github.com/Defenra/DefenraAgent) | Original Author | Go edge runtime for GeoDNS, reverse proxying, Lua WAF, TCP/UDP forwarding, and DDoS protection. |
 | [DefenraCore](https://github.com/Defenra/DefenraCore) | Original Author | Next.js control plane for distributed protection nodes, domain routing, WAF rules, and traffic operations. |
+| [AIDirectorMod](https://github.com/Rxflex/AIDirectorMod) | Author | Server-side Minecraft mod (Paper plugin) that puts an LLM in the role of a Game Director. |
+| [LotusLantern](https://github.com/Rxflex/LotusLantern) | Author | Go client for cheap BLE LED-strip controllers — reverse-engineered protocol, sold under hundreds of brand names. |
 | [MailCat](https://github.com/Rxflex/MailCat) | Author | Gemini-powered IMAP classification system that routes email automatically based on content. |
 | [chukproxy](https://github.com/Rxflex/chukproxy) | Author | Dynamic TCP/UDP reverse proxy in Go with live MySQL-backed routing rules. |
 
-Also worth opening: [NeoMimicry/MorePlayers](https://github.com/NeoMimicry/MorePlayers), [Rxflex/UTracker](https://github.com/Rxflex/UTracker), [Rxflex/BinaryWave](https://github.com/Rxflex/BinaryWave).
+Also worth opening: [NeoMimicry/MorePlayers](https://github.com/NeoMimicry/MorePlayers), [Rxflex/UTracker](https://github.com/Rxflex/UTracker), [Rxflex/BinaryWave](https://github.com/Rxflex/BinaryWave), [Rxflex/LotusLanternTray](https://github.com/Rxflex/LotusLanternTray), [Rxflex/SpouseSims](https://github.com/Rxflex/SpouseSims).
 
 ## Open Source Contributions
 
