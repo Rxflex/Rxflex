@@ -1,94 +1,68 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f0f0f,fb7013&height=220&section=header&text=Rxflex&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Builder%20of%20tools,%20systems,%20and%20things%20that%20should%20not%20break&descAlignY=58&descSize=18" alt="Rxflex header" width="100%" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://gfx.redstone.md/net?theme=light" />
+  <img src="https://gfx.redstone.md/net" alt="Andy (@Rxflex) — every public project as a mesh, sized by stars, wired to its nearest neighbours" width="100%" />
+</picture>
 
-<div align="center">
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2600&pause=900&color=FB7013&center=true&vCenter=true&width=900&lines=TypeScript+%E2%80%A2+Go+%E2%80%A2+Python+%E2%80%A2+Systems+%E2%80%A2+AI+Tooling;Public+repos+are+curated.;Private+work+is+where+most+of+the+firepower+lives.;I+build+operator+tools%2C+edge+services%2C+automation%2C+and+weird+things+that+ship." alt="Typing intro" />
-  </a>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://gfx.redstone.md/tiles?theme=light" />
+  <img src="https://gfx.redstone.md/tiles" alt="Public projects, stars earned, followers, pull requests merged upstream, years on GitHub" width="100%" />
+</picture>
 
-<div align="center">
-  <a href="https://0c.md"><img src="https://img.shields.io/badge/Website-0c.md-fb7013?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
-  <a href="https://t.me/wind_fuse"><img src="https://img.shields.io/badge/Telegram-@wind__fuse-1f1f1f?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Rxflex&style=for-the-badge&color=fb7013&label=Profile+Views" alt="Profile views" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://gfx.redstone.md/strip?label=Selected%20work&note=four%20accounts%2C%20one%20author&theme=light" />
+  <img src="https://gfx.redstone.md/strip?label=Selected%20work&note=four%20accounts%2C%20one%20author" alt="Selected work" width="100%" />
+</picture>
 
-## About
+<p align="center">
+  <a href="https://github.com/Rxflex/rom"><picture><source media="(prefers-color-scheme: light)" srcset="https://gfx.redstone.md/card?repo=Rxflex/rom&theme=light&text=Browser-like%20runtime%20in%20Rust%2C%20no%20Chromium.%20Deterministic%20web%20automation%20and%20browser%20API%20research." /><img src="https://gfx.redstone.md/card?repo=Rxflex/rom&text=Browser-like%20runtime%20in%20Rust%2C%20no%20Chromium.%20Deterministic%20web%20automation%20and%20browser%20API%20research." alt="rom — browser-like runtime in Rust without Chromium" width="49%" /></picture></a>
+  <a href="https://github.com/NeoMimicry/MorePlayers"><picture><source media="(prefers-color-scheme: light)" srcset="https://gfx.redstone.md/card?repo=NeoMimicry/MorePlayers&theme=light&text=Removes%20the%204-player%20cap%20in%20MIMESIS%20multiplayer%20sessions.%20C%23%20runtime%20patching." /><img src="https://gfx.redstone.md/card?repo=NeoMimicry/MorePlayers&text=Removes%20the%204-player%20cap%20in%20MIMESIS%20multiplayer%20sessions.%20C%23%20runtime%20patching." alt="MorePlayers — removes the 4-player cap in MIMESIS" width="49%" /></picture></a>
+</p>
 
-I build web products, internal platforms, backend systems, devtools, and infrastructure-heavy software. The work I enjoy most sits somewhere between product engineering, automation, networked systems, and "this edge case is now our problem."
+<p align="center">
+  <a href="https://github.com/redstone-md/Mapr"><picture><source media="(prefers-color-scheme: light)" srcset="https://gfx.redstone.md/card?repo=redstone-md/Mapr&theme=light&text=Bun-native%20reverse-engineering%20TUI.%20Crawls%20a%20target%2C%20rebuilds%20call%20graphs%20from%20chunked%20bundles." /><img src="https://gfx.redstone.md/card?repo=redstone-md/Mapr&text=Bun-native%20reverse-engineering%20TUI.%20Crawls%20a%20target%2C%20rebuilds%20call%20graphs%20from%20chunked%20bundles." alt="Mapr — Bun-native reverse-engineering TUI" width="49%" /></picture></a>
+  <a href="https://github.com/Rxflex/agenttrace"><picture><source media="(prefers-color-scheme: light)" srcset="https://gfx.redstone.md/card?repo=Rxflex/agenttrace&theme=light&text=Local-first%20step%20debugger%20for%20AI%20agents.%20Python%20SDK%2C%20span%20tree%20UI%2C%20SQLite%20trace%20storage." /><img src="https://gfx.redstone.md/card?repo=Rxflex/agenttrace&text=Local-first%20step%20debugger%20for%20AI%20agents.%20Python%20SDK%2C%20span%20tree%20UI%2C%20SQLite%20trace%20storage." alt="AgentTrace — local-first step debugger for AI agents" width="49%" /></picture></a>
+</p>
 
-Most of my serious output is private. This profile intentionally highlights only the public repos that make the strongest case.
+<p align="center">
+  <a href="https://github.com/Rxflex/CenaRadar"><picture><source media="(prefers-color-scheme: light)" srcset="https://gfx.redstone.md/card?repo=Rxflex/CenaRadar&theme=light&text=Aggregates%20shop%20flyers%20and%20finds%20the%20cheapest%20deal%20per%20unit.%20Next.js%2016%2C%20no%20database%2C%20trilingual." /><img src="https://gfx.redstone.md/card?repo=Rxflex/CenaRadar&text=Aggregates%20shop%20flyers%20and%20finds%20the%20cheapest%20deal%20per%20unit.%20Next.js%2016%2C%20no%20database%2C%20trilingual." alt="CenaRadar — per-unit price aggregator over shop flyers" width="49%" /></picture></a>
+  <a href="https://github.com/Defenra/DefenraAgent"><picture><source media="(prefers-color-scheme: light)" srcset="https://gfx.redstone.md/card?repo=Defenra/DefenraAgent&theme=light&text=Go%20edge%20runtime%3A%20GeoDNS%2C%20reverse%20proxy%2C%20Lua%20WAF%2C%20TCP%2FUDP%20forwarding%2C%20DDoS%20filtering." /><img src="https://gfx.redstone.md/card?repo=Defenra/DefenraAgent&text=Go%20edge%20runtime%3A%20GeoDNS%2C%20reverse%20proxy%2C%20Lua%20WAF%2C%20TCP%2FUDP%20forwarding%2C%20DDoS%20filtering." alt="DefenraAgent — Go edge runtime with GeoDNS and Lua WAF" width="49%" /></picture></a>
+</p>
 
-## Focus
+<p align="center">
+  <a href="https://github.com/Rxflex/AIDirectorMod"><picture><source media="(prefers-color-scheme: light)" srcset="https://gfx.redstone.md/card?repo=Rxflex/AIDirectorMod&theme=light&text=Server-side%20Minecraft%20mod%20that%20puts%20an%20LLM%20in%20the%20chair%20of%20the%20Game%20Director." /><img src="https://gfx.redstone.md/card?repo=Rxflex/AIDirectorMod&text=Server-side%20Minecraft%20mod%20that%20puts%20an%20LLM%20in%20the%20chair%20of%20the%20Game%20Director." alt="AIDirectorMod — an LLM as the Minecraft Game Director" width="49%" /></picture></a>
+  <a href="https://github.com/Rxflex/MailCat"><picture><source media="(prefers-color-scheme: light)" srcset="https://gfx.redstone.md/card?repo=Rxflex/MailCat&theme=light&text=Classifies%20IMAP%20mail%20with%20Gemini%20and%20files%20it%20into%20folders%20automatically." /><img src="https://gfx.redstone.md/card?repo=Rxflex/MailCat&text=Classifies%20IMAP%20mail%20with%20Gemini%20and%20files%20it%20into%20folders%20automatically." alt="MailCat — Gemini-powered IMAP classification" width="49%" /></picture></a>
+</p>
 
-- Local-first AI tooling, tracing, analysis pipelines, and operator workflows
-- Proxies, routing layers, edge agents, automation, and backend infrastructure
-- Product dashboards, auth systems, launchers, internal tools, and business logic
-- Reverse-engineering, modding, and experimental systems when the problem is worth it
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://gfx.redstone.md/strip?label=Merged%20upstream&note=other%20people%27s%20repositories&theme=light" />
+  <img src="https://gfx.redstone.md/strip?label=Merged%20upstream&note=other%20people%27s%20repositories" alt="Merged upstream" width="100%" />
+</picture>
 
-## Selected Work
+- **[Dokploy](https://github.com/Dokploy/dokploy)** · 31k★ self-hosting platform — [raw log trimming fix](https://github.com/Dokploy/dokploy/pull/1817)
+- **[Hydra](https://github.com/hydralauncher/hydra)** · 15k★ game launcher — [downloader bugfix](https://github.com/hydralauncher/hydra/pull/698)
+- **[unRAID CA templates](https://github.com/selfhosters/unRAID-CA-templates)** — accepted community templates
 
-| Project | Role | Why it matters |
-| --- | --- | --- |
-| [rom](https://github.com/Rxflex/rom) | Author | Rust browser-like runtime built without Chromium for deterministic web automation, browser API emulation, and compatibility research. |
-| [AgentTrace](https://github.com/Rxflex/agenttrace) | Author | Local-first visual debugger for AI agents with a Python SDK, FastAPI backend, React UI, and SQLite trace storage. |
-| [Mapr](https://github.com/redstone-md/Mapr) | Original Author | Bun-native reverse-engineering CLI/TUI with crawler, artifact extraction, multi-agent analysis, and report generation. |
-| [DefenraAgent](https://github.com/Defenra/DefenraAgent) | Original Author | Go edge runtime for GeoDNS, reverse proxying, Lua WAF, TCP/UDP forwarding, and DDoS protection. |
-| [DefenraCore](https://github.com/Defenra/DefenraCore) | Original Author | Next.js control plane for distributed protection nodes, domain routing, WAF rules, and traffic operations. |
-| [AIDirectorMod](https://github.com/Rxflex/AIDirectorMod) | Author | Server-side Minecraft mod (Paper plugin) that puts an LLM in the role of a Game Director. |
-| [LotusLantern](https://github.com/Rxflex/LotusLantern) | Author | Go client for cheap BLE LED-strip controllers — reverse-engineered protocol, sold under hundreds of brand names. |
-| [MailCat](https://github.com/Rxflex/MailCat) | Author | Gemini-powered IMAP classification system that routes email automatically based on content. |
-| [chukproxy](https://github.com/Rxflex/chukproxy) | Author | Dynamic TCP/UDP reverse proxy in Go with live MySQL-backed routing rules. |
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://gfx.redstone.md/strip?label=Elsewhere&note=smaller%2C%20still%20real&theme=light" />
+  <img src="https://gfx.redstone.md/strip?label=Elsewhere&note=smaller%2C%20still%20real" alt="Elsewhere" width="100%" />
+</picture>
 
-Also worth opening: [NeoMimicry/MorePlayers](https://github.com/NeoMimicry/MorePlayers), [Rxflex/UTracker](https://github.com/Rxflex/UTracker), [Rxflex/BinaryWave](https://github.com/Rxflex/BinaryWave), [Rxflex/LotusLanternTray](https://github.com/Rxflex/LotusLanternTray), [Rxflex/SpouseSims](https://github.com/Rxflex/SpouseSims).
+<p align="center">
+  <sub>
+    <a href="https://github.com/Rxflex/chukproxy">chukproxy</a> ·
+    <a href="https://github.com/Rxflex/LotusLantern">LotusLantern</a> ·
+    <a href="https://github.com/Rxflex/UTracker">UTracker</a> ·
+    <a href="https://github.com/Rxflex/BinaryWave">BinaryWave</a> ·
+    <a href="https://github.com/Defenra/DefenraCore">DefenraCore</a> ·
+    <a href="https://github.com/Rxflex/proxyservice">proxyservice</a> ·
+    <a href="https://github.com/Rxflex/SpouseSims">SpouseSims</a> ·
+    <a href="https://github.com/Rxflex?tab=repositories">all repositories</a>
+  </sub>
+</p>
 
-## Open Source Contributions
-
-- [Dokploy/dokploy](https://github.com/Dokploy/dokploy): merged [raw log trimming fix](https://github.com/Dokploy/dokploy/pull/1817) in a 31k+ star self-hosting platform.
-- [hydralauncher/hydra](https://github.com/hydralauncher/hydra): merged [downloader bugfix](https://github.com/hydralauncher/hydra/pull/698) in a 15k+ star launcher ecosystem.
-- [selfhosters/unRAID-CA-templates](https://github.com/selfhosters/unRAID-CA-templates): multiple accepted community template contributions.
-
-## Private Work
-
-The public repos are the visible layer. The recurring private themes are:
-
-- AI agents, evaluation loops, internal operator panels, and workflow automation
-- Licensing systems, launchers, account flows, and product backoffices
-- Proxies, monitoring, edge-aware services, and network-focused backend infrastructure
-- Client work and internal builds optimized to ship fast and stay maintainable
-
-## Stack
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,go,py,cs,react,nextjs,nodejs,bun,fastapi,docker,mongodb,mysql,redis,sqlite,cloudflare,git,linux&perline=9" alt="Tech stack" />
-</div>
-
-## Languages I Write In
-
-- TypeScript and JavaScript for product engineering, tooling, and full-stack systems
-- Go for proxies, agents, networking, and backend infrastructure
-- Python for AI workflows, automation, and developer tooling
-- C# for game modding and runtime patching
-- Java when the project or platform calls for it
-- SQL, HTML, CSS, and Shell as working languages, not decoration
-
-## Analytics
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Rxflex&show_icons=true&rank_icon=github&theme=transparent&title_color=fb7013&icon_color=fb7013&text_color=e6e6e6&border_color=2a2a2a" alt="GitHub stats" />
-  <img height="170" src="https://streak-stats.demolab.com?user=Rxflex&theme=transparent&ring=fb7013&fire=fb7013&currStreakLabel=fb7013&sideLabels=e6e6e6&dates=9f9f9f&border=2a2a2a" alt="GitHub streak" />
-</div>
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rxflex&layout=compact&langs_count=8&theme=transparent&title_color=fb7013&text_color=e6e6e6&border_color=2a2a2a" alt="Top languages" />
-</div>
-
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rxflex&bg_color=0d0d0d&color=e6e6e6&line=fb7013&point=ffffff&area=true&area_color=fb7013&hide_border=true" alt="Contribution graph" />
-</div>
-
-## Contact
-
-- Website: [0c.md](https://0c.md)
-- Telegram: [@wind_fuse](https://t.me/wind_fuse)
+<p align="center">
+  <sub>
+    Most of the work is private: agent loops, licensing and account systems, operator panels, edge services, client builds.<br/>
+    <a href="https://0c.md">0c.md</a> · <a href="https://t.me/wind_fuse">@wind_fuse</a> · <a href="mailto:andy@redstone.md">andy@redstone.md</a> · <a href="https://github.com/redstone-md">@redstone-md</a>
+  </sub>
+</p>
