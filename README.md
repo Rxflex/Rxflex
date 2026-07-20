@@ -1,77 +1,48 @@
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://gfx.redstone.md/net?theme=light" />
-  <img src="https://gfx.redstone.md/net" alt="Andy (@Rxflex) — every public project as a mesh, sized by stars, wired to its nearest neighbours" width="100%" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://gfx.redstone.md/tiles?theme=light" />
-  <img src="https://gfx.redstone.md/tiles" alt="Public projects, stars earned, followers, pull requests merged upstream, years on GitHub" width="100%" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://gfx.redstone.md/langs?theme=light" />
-  <img src="https://gfx.redstone.md/langs" alt="Language distribution across public repositories" width="100%" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://gfx.redstone.md/strip?label=Selected%20work&note=four%20accounts%2C%20one%20author&theme=light" />
-  <img src="https://gfx.redstone.md/strip?label=Selected%20work&note=four%20accounts%2C%20one%20author" alt="Selected work" width="100%" />
-</picture>
-
 <p align="center">
-  <a href="https://github.com/Rxflex/rom"><picture><source media="(prefers-color-scheme: light)" srcset="https://gfx.redstone.md/card?repo=Rxflex/rom&theme=light&text=Browser-like%20runtime%20in%20Rust%2C%20no%20Chromium.%20Deterministic%20web%20automation%20and%20browser%20API%20research." /><img src="https://gfx.redstone.md/card?repo=Rxflex/rom&text=Browser-like%20runtime%20in%20Rust%2C%20no%20Chromium.%20Deterministic%20web%20automation%20and%20browser%20API%20research." alt="rom — browser-like runtime in Rust without Chromium" width="49%" /></picture></a>
-  <a href="https://github.com/NeoMimicry/MorePlayers"><picture><source media="(prefers-color-scheme: light)" srcset="https://gfx.redstone.md/card?repo=NeoMimicry/MorePlayers&theme=light&text=Removes%20the%204-player%20cap%20in%20MIMESIS%20multiplayer%20sessions.%20C%23%20runtime%20patching." /><img src="https://gfx.redstone.md/card?repo=NeoMimicry/MorePlayers&text=Removes%20the%204-player%20cap%20in%20MIMESIS%20multiplayer%20sessions.%20C%23%20runtime%20patching." alt="MorePlayers — removes the 4-player cap in MIMESIS" width="49%" /></picture></a>
+<picture><source media="(prefers-color-scheme: light)" srcset="https://gfx.redstone.md/net?theme=light" /><img src="https://gfx.redstone.md/net" alt="Andy (@Rxflex) — every public project as a mesh, sized by stars, wired to its nearest neighbours" width="100%" /></picture>
+<picture><source media="(prefers-color-scheme: light)" srcset="https://gfx.redstone.md/tiles?theme=light" /><img src="https://gfx.redstone.md/tiles" alt="Public projects, stars earned, followers, pull requests merged upstream, years on GitHub" width="100%" /></picture>
+<picture><source media="(prefers-color-scheme: light)" srcset="https://gfx.redstone.md/heat?theme=light" /><img src="https://gfx.redstone.md/heat" alt="Contribution calendar for the last twelve months" width="100%" /></picture>
+<picture><source media="(prefers-color-scheme: light)" srcset="https://gfx.redstone.md/langs?theme=light" /><img src="https://gfx.redstone.md/langs" alt="Language distribution across public repositories" width="100%" /></picture>
 </p>
 
 <p align="center">
-  <a href="https://github.com/redstone-md/Mapr"><picture><source media="(prefers-color-scheme: light)" srcset="https://gfx.redstone.md/card?repo=redstone-md/Mapr&theme=light&text=Bun-native%20reverse-engineering%20TUI.%20Crawls%20a%20target%2C%20rebuilds%20call%20graphs%20from%20chunked%20bundles." /><img src="https://gfx.redstone.md/card?repo=redstone-md/Mapr&text=Bun-native%20reverse-engineering%20TUI.%20Crawls%20a%20target%2C%20rebuilds%20call%20graphs%20from%20chunked%20bundles." alt="Mapr — Bun-native reverse-engineering TUI" width="49%" /></picture></a>
-  <a href="https://github.com/Rxflex/agenttrace"><picture><source media="(prefers-color-scheme: light)" srcset="https://gfx.redstone.md/card?repo=Rxflex/agenttrace&theme=light&text=Local-first%20step%20debugger%20for%20AI%20agents.%20Python%20SDK%2C%20span%20tree%20UI%2C%20SQLite%20trace%20storage." /><img src="https://gfx.redstone.md/card?repo=Rxflex/agenttrace&text=Local-first%20step%20debugger%20for%20AI%20agents.%20Python%20SDK%2C%20span%20tree%20UI%2C%20SQLite%20trace%20storage." alt="AgentTrace — local-first step debugger for AI agents" width="49%" /></picture></a>
+<picture><source media="(prefers-color-scheme: light)" srcset="https://gfx.redstone.md/strip?label=Selected%20work&note=four%20accounts%2C%20one%20author&theme=light" /><img src="https://gfx.redstone.md/strip?label=Selected%20work&note=four%20accounts%2C%20one%20author" alt="Selected work" width="100%" /></picture>
+<a href="https://github.com/Rxflex/rom"><picture><source media="(prefers-color-scheme: light)" srcset="https://gfx.redstone.md/card?repo=Rxflex/rom&theme=light&text=Browser-like%20runtime%20in%20Rust%2C%20no%20Chromium.%20Deterministic%20web%20automation%20and%20browser%20API%20research." /><img src="https://gfx.redstone.md/card?repo=Rxflex/rom&text=Browser-like%20runtime%20in%20Rust%2C%20no%20Chromium.%20Deterministic%20web%20automation%20and%20browser%20API%20research." alt="rom — browser-like runtime in Rust without Chromium" width="49%" /></picture></a>
+<a href="https://github.com/NeoMimicry/MorePlayers"><picture><source media="(prefers-color-scheme: light)" srcset="https://gfx.redstone.md/card?repo=NeoMimicry/MorePlayers&theme=light&text=Removes%20the%204-player%20cap%20in%20MIMESIS%20multiplayer%20sessions.%20C%23%20runtime%20patching." /><img src="https://gfx.redstone.md/card?repo=NeoMimicry/MorePlayers&text=Removes%20the%204-player%20cap%20in%20MIMESIS%20multiplayer%20sessions.%20C%23%20runtime%20patching." alt="MorePlayers — removes the 4-player cap in MIMESIS" width="49%" /></picture></a>
+<a href="https://github.com/redstone-md/Mapr"><picture><source media="(prefers-color-scheme: light)" srcset="https://gfx.redstone.md/card?repo=redstone-md/Mapr&theme=light&text=Bun-native%20reverse-engineering%20TUI.%20Crawls%20a%20target%2C%20rebuilds%20call%20graphs%20from%20chunked%20bundles." /><img src="https://gfx.redstone.md/card?repo=redstone-md/Mapr&text=Bun-native%20reverse-engineering%20TUI.%20Crawls%20a%20target%2C%20rebuilds%20call%20graphs%20from%20chunked%20bundles." alt="Mapr — Bun-native reverse-engineering TUI" width="49%" /></picture></a>
+<a href="https://github.com/Rxflex/agenttrace"><picture><source media="(prefers-color-scheme: light)" srcset="https://gfx.redstone.md/card?repo=Rxflex/agenttrace&theme=light&text=Local-first%20step%20debugger%20for%20AI%20agents.%20Python%20SDK%2C%20span%20tree%20UI%2C%20SQLite%20trace%20storage." /><img src="https://gfx.redstone.md/card?repo=Rxflex/agenttrace&text=Local-first%20step%20debugger%20for%20AI%20agents.%20Python%20SDK%2C%20span%20tree%20UI%2C%20SQLite%20trace%20storage." alt="AgentTrace — local-first step debugger for AI agents" width="49%" /></picture></a>
+<a href="https://github.com/Rxflex/CenaRadar"><picture><source media="(prefers-color-scheme: light)" srcset="https://gfx.redstone.md/card?repo=Rxflex/CenaRadar&theme=light&text=Aggregates%20shop%20flyers%20and%20finds%20the%20cheapest%20deal%20per%20unit.%20Next.js%2016%2C%20no%20database%2C%20trilingual." /><img src="https://gfx.redstone.md/card?repo=Rxflex/CenaRadar&text=Aggregates%20shop%20flyers%20and%20finds%20the%20cheapest%20deal%20per%20unit.%20Next.js%2016%2C%20no%20database%2C%20trilingual." alt="CenaRadar — per-unit price aggregator over shop flyers" width="49%" /></picture></a>
+<a href="https://github.com/Defenra/DefenraAgent"><picture><source media="(prefers-color-scheme: light)" srcset="https://gfx.redstone.md/card?repo=Defenra/DefenraAgent&theme=light&text=Go%20edge%20runtime%3A%20GeoDNS%2C%20reverse%20proxy%2C%20Lua%20WAF%2C%20TCP%2FUDP%20forwarding%2C%20DDoS%20filtering." /><img src="https://gfx.redstone.md/card?repo=Defenra/DefenraAgent&text=Go%20edge%20runtime%3A%20GeoDNS%2C%20reverse%20proxy%2C%20Lua%20WAF%2C%20TCP%2FUDP%20forwarding%2C%20DDoS%20filtering." alt="DefenraAgent — Go edge runtime with GeoDNS and Lua WAF" width="49%" /></picture></a>
+<a href="https://github.com/Rxflex/MailCat"><picture><source media="(prefers-color-scheme: light)" srcset="https://gfx.redstone.md/card?repo=Rxflex/MailCat&theme=light&text=Classifies%20IMAP%20mail%20with%20Gemini%20and%20files%20it%20into%20folders%20automatically." /><img src="https://gfx.redstone.md/card?repo=Rxflex/MailCat&text=Classifies%20IMAP%20mail%20with%20Gemini%20and%20files%20it%20into%20folders%20automatically." alt="MailCat — Gemini-powered IMAP classification" width="49%" /></picture></a>
+<a href="https://github.com/Rxflex/chukproxy"><picture><source media="(prefers-color-scheme: light)" srcset="https://gfx.redstone.md/card?repo=Rxflex/chukproxy&theme=light&text=Dynamic%20TCP%20and%20UDP%20reverse%20proxy%20in%20Go%2C%20routing%20rules%20read%20live%20from%20MySQL." /><img src="https://gfx.redstone.md/card?repo=Rxflex/chukproxy&text=Dynamic%20TCP%20and%20UDP%20reverse%20proxy%20in%20Go%2C%20routing%20rules%20read%20live%20from%20MySQL." alt="chukproxy — dynamic TCP/UDP reverse proxy in Go" width="49%" /></picture></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Rxflex/CenaRadar"><picture><source media="(prefers-color-scheme: light)" srcset="https://gfx.redstone.md/card?repo=Rxflex/CenaRadar&theme=light&text=Aggregates%20shop%20flyers%20and%20finds%20the%20cheapest%20deal%20per%20unit.%20Next.js%2016%2C%20no%20database%2C%20trilingual." /><img src="https://gfx.redstone.md/card?repo=Rxflex/CenaRadar&text=Aggregates%20shop%20flyers%20and%20finds%20the%20cheapest%20deal%20per%20unit.%20Next.js%2016%2C%20no%20database%2C%20trilingual." alt="CenaRadar — per-unit price aggregator over shop flyers" width="49%" /></picture></a>
-  <a href="https://github.com/Defenra/DefenraAgent"><picture><source media="(prefers-color-scheme: light)" srcset="https://gfx.redstone.md/card?repo=Defenra/DefenraAgent&theme=light&text=Go%20edge%20runtime%3A%20GeoDNS%2C%20reverse%20proxy%2C%20Lua%20WAF%2C%20TCP%2FUDP%20forwarding%2C%20DDoS%20filtering." /><img src="https://gfx.redstone.md/card?repo=Defenra/DefenraAgent&text=Go%20edge%20runtime%3A%20GeoDNS%2C%20reverse%20proxy%2C%20Lua%20WAF%2C%20TCP%2FUDP%20forwarding%2C%20DDoS%20filtering." alt="DefenraAgent — Go edge runtime with GeoDNS and Lua WAF" width="49%" /></picture></a>
+<picture><source media="(prefers-color-scheme: light)" srcset="https://gfx.redstone.md/craft?theme=light" /><img src="https://gfx.redstone.md/craft" alt="Minecraft work as w_zrd: AIDirectorMod, DDC, MossyMod, MorePlayers" width="100%" /></picture>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Rxflex/AIDirectorMod"><picture><source media="(prefers-color-scheme: light)" srcset="https://gfx.redstone.md/card?repo=Rxflex/AIDirectorMod&theme=light&text=Server-side%20Minecraft%20mod%20that%20puts%20an%20LLM%20in%20the%20chair%20of%20the%20Game%20Director." /><img src="https://gfx.redstone.md/card?repo=Rxflex/AIDirectorMod&text=Server-side%20Minecraft%20mod%20that%20puts%20an%20LLM%20in%20the%20chair%20of%20the%20Game%20Director." alt="AIDirectorMod — an LLM as the Minecraft Game Director" width="49%" /></picture></a>
-  <a href="https://github.com/Rxflex/MailCat"><picture><source media="(prefers-color-scheme: light)" srcset="https://gfx.redstone.md/card?repo=Rxflex/MailCat&theme=light&text=Classifies%20IMAP%20mail%20with%20Gemini%20and%20files%20it%20into%20folders%20automatically." /><img src="https://gfx.redstone.md/card?repo=Rxflex/MailCat&text=Classifies%20IMAP%20mail%20with%20Gemini%20and%20files%20it%20into%20folders%20automatically." alt="MailCat — Gemini-powered IMAP classification" width="49%" /></picture></a>
+<picture><source media="(prefers-color-scheme: light)" srcset="https://gfx.redstone.md/strip?label=Merged%20upstream&note=other%20people%27s%20repositories&theme=light" /><img src="https://gfx.redstone.md/strip?label=Merged%20upstream&note=other%20people%27s%20repositories" alt="Merged upstream" width="100%" /></picture>
+<a href="https://github.com/Dokploy/dokploy/pull/1817"><picture><source media="(prefers-color-scheme: light)" srcset="https://gfx.redstone.md/row?title=Dokploy&meta=31k%E2%98%85%20self-hosting%20platform&action=raw%20log%20trimming%20fix&theme=light" /><img src="https://gfx.redstone.md/row?title=Dokploy&meta=31k%E2%98%85%20self-hosting%20platform&action=raw%20log%20trimming%20fix" alt="Dokploy, 31k star self-hosting platform — raw log trimming fix" width="100%" /></picture></a>
+<a href="https://github.com/hydralauncher/hydra/pull/698"><picture><source media="(prefers-color-scheme: light)" srcset="https://gfx.redstone.md/row?title=Hydra&meta=15k%E2%98%85%20game%20launcher&action=downloader%20bugfix&theme=light" /><img src="https://gfx.redstone.md/row?title=Hydra&meta=15k%E2%98%85%20game%20launcher&action=downloader%20bugfix" alt="Hydra, 15k star game launcher — downloader bugfix" width="100%" /></picture></a>
+<a href="https://github.com/selfhosters/unRAID-CA-templates"><picture><source media="(prefers-color-scheme: light)" srcset="https://gfx.redstone.md/row?title=unRAID%20CA&meta=community%20app%20catalogue&action=accepted%20templates&theme=light" /><img src="https://gfx.redstone.md/row?title=unRAID%20CA&meta=community%20app%20catalogue&action=accepted%20templates" alt="unRAID CA — accepted community templates" width="100%" /></picture></a>
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://gfx.redstone.md/strip?label=Merged%20upstream&note=other%20people%27s%20repositories&theme=light" />
-  <img src="https://gfx.redstone.md/strip?label=Merged%20upstream&note=other%20people%27s%20repositories" alt="Merged upstream" width="100%" />
-</picture>
-
 <p align="center">
-  <a href="https://github.com/Dokploy/dokploy/pull/1817"><picture><source media="(prefers-color-scheme: light)" srcset="https://gfx.redstone.md/row?title=Dokploy&meta=31k%E2%98%85%20self-hosting%20platform&action=raw%20log%20trimming%20fix&theme=light" /><img src="https://gfx.redstone.md/row?title=Dokploy&meta=31k%E2%98%85%20self-hosting%20platform&action=raw%20log%20trimming%20fix" alt="Dokploy, 31k star self-hosting platform — raw log trimming fix" width="100%" /></picture></a>
-  <a href="https://github.com/hydralauncher/hydra/pull/698"><picture><source media="(prefers-color-scheme: light)" srcset="https://gfx.redstone.md/row?title=Hydra&meta=15k%E2%98%85%20game%20launcher&action=downloader%20bugfix&theme=light" /><img src="https://gfx.redstone.md/row?title=Hydra&meta=15k%E2%98%85%20game%20launcher&action=downloader%20bugfix" alt="Hydra, 15k star game launcher — downloader bugfix" width="100%" /></picture></a>
-  <a href="https://github.com/selfhosters/unRAID-CA-templates"><picture><source media="(prefers-color-scheme: light)" srcset="https://gfx.redstone.md/row?title=unRAID%20CA%20templates&meta=community%20image%20catalogue&action=accepted%20templates&theme=light" /><img src="https://gfx.redstone.md/row?title=unRAID%20CA%20templates&meta=community%20image%20catalogue&action=accepted%20templates" alt="unRAID CA templates — accepted community templates" width="100%" /></picture></a>
+<picture><source media="(prefers-color-scheme: light)" srcset="https://gfx.redstone.md/strip?label=Elsewhere&note=smaller%2C%20still%20real&theme=light" /><img src="https://gfx.redstone.md/strip?label=Elsewhere&note=smaller%2C%20still%20real" alt="Elsewhere" width="100%" /></picture>
+<a href="https://github.com/Rxflex/LotusLantern"><img src="https://gfx.redstone.md/chip?label=LotusLantern" alt="LotusLantern" /></a>
+<a href="https://github.com/Rxflex/UTracker"><img src="https://gfx.redstone.md/chip?label=UTracker" alt="UTracker" /></a>
+<a href="https://github.com/Rxflex/BinaryWave"><img src="https://gfx.redstone.md/chip?label=BinaryWave" alt="BinaryWave" /></a>
+<a href="https://github.com/Defenra/DefenraCore"><img src="https://gfx.redstone.md/chip?label=DefenraCore" alt="DefenraCore" /></a>
+<a href="https://github.com/Rxflex/proxyservice"><img src="https://gfx.redstone.md/chip?label=proxyservice" alt="proxyservice" /></a>
+<a href="https://github.com/Rxflex/SpouseSims"><img src="https://gfx.redstone.md/chip?label=SpouseSims" alt="SpouseSims" /></a>
+<a href="https://github.com/Rxflex?tab=repositories"><img src="https://gfx.redstone.md/chip?label=all%20repositories&accent=1" alt="All repositories" /></a>
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://gfx.redstone.md/strip?label=Elsewhere&note=smaller%2C%20still%20real&theme=light" />
-  <img src="https://gfx.redstone.md/strip?label=Elsewhere&note=smaller%2C%20still%20real" alt="Elsewhere" width="100%" />
-</picture>
-
 <p align="center">
-  <a href="https://github.com/Rxflex/chukproxy"><img src="https://gfx.redstone.md/chip?label=chukproxy" alt="chukproxy" /></a>
-  <a href="https://github.com/Rxflex/LotusLantern"><img src="https://gfx.redstone.md/chip?label=LotusLantern" alt="LotusLantern" /></a>
-  <a href="https://github.com/Rxflex/UTracker"><img src="https://gfx.redstone.md/chip?label=UTracker" alt="UTracker" /></a>
-  <a href="https://github.com/Rxflex/BinaryWave"><img src="https://gfx.redstone.md/chip?label=BinaryWave" alt="BinaryWave" /></a>
-  <a href="https://github.com/Defenra/DefenraCore"><img src="https://gfx.redstone.md/chip?label=DefenraCore" alt="DefenraCore" /></a>
-  <a href="https://github.com/Rxflex/proxyservice"><img src="https://gfx.redstone.md/chip?label=proxyservice" alt="proxyservice" /></a>
-  <a href="https://github.com/Rxflex?tab=repositories"><img src="https://gfx.redstone.md/chip?label=all%20repositories&accent=1" alt="All repositories" /></a>
-</p>
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://gfx.redstone.md/note?text=Most%20of%20the%20work%20is%20private%3A%20agent%20loops%2C%20licensing%20and%20account%20systems%2C%20operator%20panels%2C%20edge%20services%2C%20client%20builds.&theme=light" />
-  <img src="https://gfx.redstone.md/note?text=Most%20of%20the%20work%20is%20private%3A%20agent%20loops%2C%20licensing%20and%20account%20systems%2C%20operator%20panels%2C%20edge%20services%2C%20client%20builds." alt="Most of the work is private: agent loops, licensing and account systems, operator panels, edge services, client builds." width="100%" />
-</picture>
-
-<p align="center">
-  <a href="https://0c.md"><img src="https://gfx.redstone.md/chip?label=0c.md&accent=1" alt="0c.md" /></a>
-  <a href="https://t.me/wind_fuse"><img src="https://gfx.redstone.md/chip?label=%40wind_fuse" alt="Telegram @wind_fuse" /></a>
-  <a href="mailto:andy@redstone.md"><img src="https://gfx.redstone.md/chip?label=andy%40redstone.md" alt="andy@redstone.md" /></a>
-  <a href="https://github.com/redstone-md"><img src="https://gfx.redstone.md/chip?label=%40redstone-md" alt="redstone.md organisation" /></a>
+<picture><source media="(prefers-color-scheme: light)" srcset="https://gfx.redstone.md/note?text=Most%20of%20the%20work%20is%20private%3A%20agent%20loops%2C%20licensing%20and%20account%20systems%2C%20operator%20panels%2C%20edge%20services%2C%20client%20builds.&theme=light" /><img src="https://gfx.redstone.md/note?text=Most%20of%20the%20work%20is%20private%3A%20agent%20loops%2C%20licensing%20and%20account%20systems%2C%20operator%20panels%2C%20edge%20services%2C%20client%20builds." alt="Most of the work is private: agent loops, licensing and account systems, operator panels, edge services, client builds." width="100%" /></picture>
+<a href="https://0c.md"><img src="https://gfx.redstone.md/chip?label=0c.md&accent=1" alt="0c.md" /></a>
+<a href="https://t.me/wind_fuse"><img src="https://gfx.redstone.md/chip?label=%40wind_fuse" alt="Telegram @wind_fuse" /></a>
+<a href="mailto:andy@redstone.md"><img src="https://gfx.redstone.md/chip?label=andy%40redstone.md" alt="andy@redstone.md" /></a>
+<a href="https://github.com/redstone-md"><img src="https://gfx.redstone.md/chip?label=%40redstone-md" alt="redstone.md organisation" /></a>
 </p>
