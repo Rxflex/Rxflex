@@ -9,6 +9,11 @@
 </picture>
 
 <picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://gfx.redstone.md/langs?theme=light" />
+  <img src="https://gfx.redstone.md/langs" alt="Language distribution across public repositories" width="100%" />
+</picture>
+
+<picture>
   <source media="(prefers-color-scheme: light)" srcset="https://gfx.redstone.md/strip?label=Selected%20work&note=four%20accounts%2C%20one%20author&theme=light" />
   <img src="https://gfx.redstone.md/strip?label=Selected%20work&note=four%20accounts%2C%20one%20author" alt="Selected work" width="100%" />
 </picture>
