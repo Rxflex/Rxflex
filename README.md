@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-<picture><source media="(prefers-color-scheme: light)" srcset="https://gfx.redstone.md/craft?theme=light" /><img src="https://gfx.redstone.md/craft" alt="Minecraft work as w_zrd: AIDirectorMod, DDC, MossyMod, MorePlayers" width="100%" /></picture>
+<picture><source media="(prefers-color-scheme: light)" srcset="https://gfx.redstone.md/craft?theme=light" /><img src="https://gfx.redstone.md/craft" alt="Minecraft work as w_zrd: AIDirectorMod, DDC, MossyMod" width="100%" /></picture>
 </p>
 
 <p align="center">
