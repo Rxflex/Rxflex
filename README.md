@@ -43,9 +43,11 @@
   <img src="https://gfx.redstone.md/strip?label=Merged%20upstream&note=other%20people%27s%20repositories" alt="Merged upstream" width="100%" />
 </picture>
 
-- **[Dokploy](https://github.com/Dokploy/dokploy)** · 31k★ self-hosting platform — [raw log trimming fix](https://github.com/Dokploy/dokploy/pull/1817)
-- **[Hydra](https://github.com/hydralauncher/hydra)** · 15k★ game launcher — [downloader bugfix](https://github.com/hydralauncher/hydra/pull/698)
-- **[unRAID CA templates](https://github.com/selfhosters/unRAID-CA-templates)** — accepted community templates
+<p align="center">
+  <a href="https://github.com/Dokploy/dokploy/pull/1817"><picture><source media="(prefers-color-scheme: light)" srcset="https://gfx.redstone.md/row?title=Dokploy&meta=31k%E2%98%85%20self-hosting%20platform&action=raw%20log%20trimming%20fix&theme=light" /><img src="https://gfx.redstone.md/row?title=Dokploy&meta=31k%E2%98%85%20self-hosting%20platform&action=raw%20log%20trimming%20fix" alt="Dokploy, 31k star self-hosting platform — raw log trimming fix" width="100%" /></picture></a>
+  <a href="https://github.com/hydralauncher/hydra/pull/698"><picture><source media="(prefers-color-scheme: light)" srcset="https://gfx.redstone.md/row?title=Hydra&meta=15k%E2%98%85%20game%20launcher&action=downloader%20bugfix&theme=light" /><img src="https://gfx.redstone.md/row?title=Hydra&meta=15k%E2%98%85%20game%20launcher&action=downloader%20bugfix" alt="Hydra, 15k star game launcher — downloader bugfix" width="100%" /></picture></a>
+  <a href="https://github.com/selfhosters/unRAID-CA-templates"><picture><source media="(prefers-color-scheme: light)" srcset="https://gfx.redstone.md/row?title=unRAID%20CA%20templates&meta=community%20image%20catalogue&action=accepted%20templates&theme=light" /><img src="https://gfx.redstone.md/row?title=unRAID%20CA%20templates&meta=community%20image%20catalogue&action=accepted%20templates" alt="unRAID CA templates — accepted community templates" width="100%" /></picture></a>
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://gfx.redstone.md/strip?label=Elsewhere&note=smaller%2C%20still%20real&theme=light" />
@@ -53,21 +55,23 @@
 </picture>
 
 <p align="center">
-  <sub>
-    <a href="https://github.com/Rxflex/chukproxy">chukproxy</a> ·
-    <a href="https://github.com/Rxflex/LotusLantern">LotusLantern</a> ·
-    <a href="https://github.com/Rxflex/UTracker">UTracker</a> ·
-    <a href="https://github.com/Rxflex/BinaryWave">BinaryWave</a> ·
-    <a href="https://github.com/Defenra/DefenraCore">DefenraCore</a> ·
-    <a href="https://github.com/Rxflex/proxyservice">proxyservice</a> ·
-    <a href="https://github.com/Rxflex/SpouseSims">SpouseSims</a> ·
-    <a href="https://github.com/Rxflex?tab=repositories">all repositories</a>
-  </sub>
+  <a href="https://github.com/Rxflex/chukproxy"><img src="https://gfx.redstone.md/chip?label=chukproxy" alt="chukproxy" /></a>
+  <a href="https://github.com/Rxflex/LotusLantern"><img src="https://gfx.redstone.md/chip?label=LotusLantern" alt="LotusLantern" /></a>
+  <a href="https://github.com/Rxflex/UTracker"><img src="https://gfx.redstone.md/chip?label=UTracker" alt="UTracker" /></a>
+  <a href="https://github.com/Rxflex/BinaryWave"><img src="https://gfx.redstone.md/chip?label=BinaryWave" alt="BinaryWave" /></a>
+  <a href="https://github.com/Defenra/DefenraCore"><img src="https://gfx.redstone.md/chip?label=DefenraCore" alt="DefenraCore" /></a>
+  <a href="https://github.com/Rxflex/proxyservice"><img src="https://gfx.redstone.md/chip?label=proxyservice" alt="proxyservice" /></a>
+  <a href="https://github.com/Rxflex?tab=repositories"><img src="https://gfx.redstone.md/chip?label=all%20repositories&accent=1" alt="All repositories" /></a>
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://gfx.redstone.md/note?text=Most%20of%20the%20work%20is%20private%3A%20agent%20loops%2C%20licensing%20and%20account%20systems%2C%20operator%20panels%2C%20edge%20services%2C%20client%20builds.&theme=light" />
+  <img src="https://gfx.redstone.md/note?text=Most%20of%20the%20work%20is%20private%3A%20agent%20loops%2C%20licensing%20and%20account%20systems%2C%20operator%20panels%2C%20edge%20services%2C%20client%20builds." alt="Most of the work is private: agent loops, licensing and account systems, operator panels, edge services, client builds." width="100%" />
+</picture>
+
 <p align="center">
-  <sub>
-    Most of the work is private: agent loops, licensing and account systems, operator panels, edge services, client builds.<br/>
-    <a href="https://0c.md">0c.md</a> · <a href="https://t.me/wind_fuse">@wind_fuse</a> · <a href="mailto:andy@redstone.md">andy@redstone.md</a> · <a href="https://github.com/redstone-md">@redstone-md</a>
-  </sub>
+  <a href="https://0c.md"><img src="https://gfx.redstone.md/chip?label=0c.md&accent=1" alt="0c.md" /></a>
+  <a href="https://t.me/wind_fuse"><img src="https://gfx.redstone.md/chip?label=%40wind_fuse" alt="Telegram @wind_fuse" /></a>
+  <a href="mailto:andy@redstone.md"><img src="https://gfx.redstone.md/chip?label=andy%40redstone.md" alt="andy@redstone.md" /></a>
+  <a href="https://github.com/redstone-md"><img src="https://gfx.redstone.md/chip?label=%40redstone-md" alt="redstone.md organisation" /></a>
 </p>
